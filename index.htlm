@@ -1,5 +1,4 @@
 
-</head>
   <body>
   <div class="con"> 
     <div class="blog">ABOUT ME</div>
@@ -12,9 +11,6 @@
        </ul>
         </tr>
       </table>  
-    <div class="left">
-      <img src="xiaolan1.jpg.jpg">
-    </div>
     <div class="right">
       <ul>
         <li>姓名：雷定伟
