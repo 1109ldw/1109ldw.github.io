@@ -13,6 +13,7 @@
         </tr>
       </table>  
     <div class="right">
+      <img src="xiaolan1.jpg.jpg.jpg">
       <ul>
         <li>姓名：雷定伟
         </li>
