@@ -8,7 +8,7 @@
         <tr><td><li><a href="https://user.qzone.qq.com/2394895371">QZONE</a></li></td>
         <td><li><a href="photo.jpg.jpg">PHOTO</a></li></td>
         <td><li><a href="QR.jpg.jpg">QR</a></li></td>
-        <td><li><a href="girlfriend.jpg.jpg.jpg">GIRLFRIEND</a></li></td>
+        <td><li><a href="girlfriend.jpg.jpg">GIRLFRIEND</a></li></td>
       </ul>
         </tr>
       </table>  
