@@ -12,11 +12,6 @@
       </ul>
         </tr>
       </table>  
-
-    </div>
-    <div class="left">
-      <img src="xiaolan1.jpg.jpg"width="400px">
-    </div>
     <div class="right">
       <ul>
         <li>姓名：雷定伟
