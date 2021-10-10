@@ -4,13 +4,14 @@
     <div class="blog">ABOUT ME</div>
     <div class="menu">
       <table>
-      <ul>
-        <tr><td><li><a href="https://user.qzone.qq.com/2394895371">QZONE</a></li></td>
-        <td><li><a href="photo.jpg.jpg">PHOTO</a></li></td>
-        <td><li><a href="QR.jpg.jpg">QR</a></li></td>
-        <td><li><a href="girlfriend.jpg.jpg">GIRLFRIEND</a></li></td>
-      </ul>
+        <ul>
+        <tr>
+          <td><li><a href="https://user.qzone.qq.com/2394895371">QZONE</a></li></td>
+          <td><li><a href="photo.jpg.jpg">PHOTO</a></li></td>
+          <td><li><a href="QR.jpg.jpg">QR</a></li></td>
+          <td><li><a href="girlfriend.jpg.jpg">GIRLFRIEND</a></li></td>
         </tr>
+        </ul>
       </table>  
     <div class="right">
       <img src="xiaolan1.jpg.jpg">
@@ -20,7 +21,7 @@
         <li>学号：2110307***
         </li>
         <li>家乡：贵州省遵义市茅台镇
-        </a></li>
+        </li>
         <li>电话：15329228323
         </li>
         <li>QQ:2394895371
